@@ -1,0 +1,12 @@
+{
+  "name": "test-array-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "Telles <diego.rtelles@gmail.com>",
+  "license": "“MIT”"
+}

@@ -1,0 +1,136 @@
+{
+	"page": 0,
+	"pageSize": 10,
+	"totalPages": 1,
+	"totalElements": 1,
+	"content": {
+		"id": 15,
+		"name": "Teste",
+		"modality": "Leve",
+		"deliveryTimeTupleZipcodeRangeDtos": [
+			{
+				"id": 76335,
+				"zipcodeMin": 10000000,
+				"zipcodeMax": 20000000,
+				"deliveryTimeTupleDtos": [
+
+					{
+						"id": 447749,
+						"warehouse": "ES-25",
+						"valueTerm": 1
+					},
+					{
+						"id": 447750,
+						"warehouse": "MG(CON)-52",
+						"valueTerm": 2
+					},
+					{
+						"id": 447752,
+						"warehouse": "MG(UBE)-44",
+						"valueTerm": 1
+					},
+					{
+						"id": 447755,
+						"warehouse": "MG(UBE)-75",
+						"valueTerm": 2
+					},
+					{
+						"id": 447756,
+						"warehouse": "PA-49",
+						"valueTerm": 1
+					},
+					{
+						"id": 447760,
+						"warehouse": "PE-33",
+						"valueTerm": 2
+					},
+					{
+						"id": 447761,
+						"warehouse": "PE-35",
+						"valueTerm": 1
+					},
+					{
+						"id": 447762,
+						"warehouse": "PR-28",
+						"valueTerm": 2
+					},
+					{
+						"id": 447765,
+						"warehouse": "RJ-34",
+						"valueTerm": 1
+					},
+					{
+						"id": 447745,
+						"warehouse": "RJ-45",
+						"valueTerm": 2
+					},
+					{
+						"id": 447751,
+						"warehouse": "RJ-56",
+						"valueTerm": 12
+					},
+					{
+						"id": 447757,
+						"warehouse": "RJ-63",
+						"valueTerm": 1
+					},
+					{
+						"id": 447763,
+						"warehouse": "RJ-64",
+						"valueTerm": 2
+					},
+					{
+						"id": 447746,
+						"warehouse": "RJ-66",
+						"valueTerm": 1
+					},
+					{
+						"id": 447748,
+						"warehouse": "RS-20",
+						"valueTerm": 2
+					},
+					{
+						"id": 447754,
+						"warehouse": "SC-36",
+						"valueTerm": 1
+					},
+					{
+						"id": 447759,
+						"warehouse": "SP(RAO)-23",
+						"valueTerm": 2
+					},
+					{
+						"id": 447747,
+						"warehouse": "SP-2",
+						"valueTerm": 2
+					},
+					{
+						"id": 447753,
+						"warehouse": "SP-37",
+						"valueTerm": 1
+					},
+					{
+						"id": 447744,
+						"warehouse": "SP-48",
+						"valueTerm": 2
+					},
+					{
+						"id": 447766,
+						"warehouse": "SP-55",
+						"valueTerm": 1
+					},
+					{
+						"id": 447764,
+						"warehouse": "SP-65",
+						"valueTerm": 2
+					},
+					{
+						"id": 447758,
+						"warehouse": "SP-77",
+						"valueTerm": 1
+					}
+				]
+			}
+		]
+	}
+}
